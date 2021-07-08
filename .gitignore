@@ -5,8 +5,7 @@
 
 # Файлы игнорирования
 *.log
-*.ini
-*.launch
+*.zip
 .metadata/
 .settings/
 

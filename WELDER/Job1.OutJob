@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Job1.OutJob
+Name=
 Description=
 TargetOutputMedium=PDF
 VariantName=[No Variations]
@@ -282,9 +282,9 @@ Configuration14_Name1=OutputConfigurationParameter1
 Configuration14_Item1=Record=ExportDXFView|ACadVersion=61|UseRoundedTracks=True|Components=0|HoleMode=1|Units=1|OutputFormat=1|OnlyVisibleLayers=False|ZeroWidthLines=0
 
 [PublishSettings]
-OutputFilePath2=C:\WELDER\PCB\WELDER_v1_02\WELDER\Project Outputs for PCB_Project\PCB_WELDER.PDF
+OutputFilePath2=C:\PROJECTS\PCB_WELDER\WELDER\Project Outputs for PCB_Project\PCB_WELDER.PDF
 ReleaseManaged2=0
-OutputBasePath2=C:\WELDER\PCB\WELDER_v1_02\WELDER\Project Outputs for PCB_Project\
+OutputBasePath2=Project Outputs for PCB_Project\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -361,7 +361,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\WELDER\PCB\WELDER_v1_02\WELDER\Project Outputs for PCB_Project\PCB_WELDER.PDF
+RelativeOutputPath2=C:\PROJECTS\PCB_WELDER\WELDER\Project Outputs for PCB_Project\PCB_WELDER.PDF
 OpenOutputs2=1
 RelativeOutputPath3=C:\WELDER\PCB\WELDER_v1_02\WELDER\Project Outputs for PCB_Project\
 OpenOutputs3=1
