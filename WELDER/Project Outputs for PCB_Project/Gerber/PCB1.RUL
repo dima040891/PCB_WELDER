@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\WELDER\PCB\WELDER_v1_02\WELDER\PCB1.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_Poly_0.5mm|Scope=Board|Minimum=19.69
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.17
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance_Poly-Mask_0.254mm|Scope=Board|Minimum=10.00

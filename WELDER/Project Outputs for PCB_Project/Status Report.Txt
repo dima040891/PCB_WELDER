@@ -1,0 +1,10 @@
+Output: AutoCAD dwg/dxf File PCB
+Type  : AutoCAD PCB
+From  : PCB Document [PCB1.PcbDoc]
+   Generated File[PCB1.DXF]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:03:13 On 04.07.2021
