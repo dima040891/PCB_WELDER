@@ -7,4 +7,8 @@ From  : PCB Document [PCB1.PcbDoc]
 Files Generated   : 1
 Documents Printed : 0
 
+<<<<<<< HEAD
 Finished Output Generation At 21:39:15 On 13.12.2021
+=======
+Finished Output Generation At 15:27:51 On 12.12.2021
+>>>>>>> master
